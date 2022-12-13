@@ -1,0 +1,15 @@
+/Users/felipebraga/Desktop/Calculator/bin/Debug/net7.0/Calculator
+/Users/felipebraga/Desktop/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/felipebraga/Desktop/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/felipebraga/Desktop/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/felipebraga/Desktop/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/felipebraga/Desktop/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/felipebraga/Desktop/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipebraga/Desktop/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/felipebraga/Desktop/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/felipebraga/Desktop/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/felipebraga/Desktop/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/felipebraga/Desktop/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/felipebraga/Desktop/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/felipebraga/Desktop/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/felipebraga/Desktop/Calculator/obj/Debug/net7.0/ref/Calculator.dll
